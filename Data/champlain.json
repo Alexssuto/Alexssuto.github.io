@@ -1,0 +1,372 @@
+[
+{
+
+      "Full name": "Alex Ssuto",
+
+      "Number": "10",
+
+      "Kills": "N/A",
+
+      "Serves": "N/A",
+
+      "Digs": "4/6",
+
+      "Passing": "6/8",
+
+      "Blocks": "N/A",
+
+      "Year": "3",
+
+      "Program": "Computer Science",
+
+      "Position": "Libero",
+
+      "Origin Club": "AfterSchock"
+      
+ 
+
+  },
+  { 
+      
+      "Full name": "Malakai Buttle",
+
+      "Number": "18",
+
+      "Kills": "5/5",
+
+      "Serves": "6/7",
+
+      "Digs": "N/A",
+
+      "Passing": "N/A",
+
+      "Blocks": "5/9",
+
+      "Year": "2",
+
+      "Program": "Social Science",
+
+      "Position": "Middle Blocker",
+
+      "Origin Club": "Centaniel Chargers"
+
+   
+  },
+  {
+
+    "Full name": "Marc Lampron",
+
+    "Number": "8",
+
+    "Kills": "3/5",
+
+    "Serves": "3/6",
+
+    "Digs": "N/A",
+
+    "Passing": "N/A",
+
+    "Blocks": "6/9",
+
+    "Year": "2",
+
+    "Program": "Math and computer science",
+
+    "Position": "Middle Blocker",
+
+    "Origin Club": "N/A"
+
+  },
+  {
+
+    "Full name": "Nikita Kurignov",
+
+    "Number": "13",
+
+    "Kills": "8/9",
+
+    "Serves": "2/6",
+
+    "Digs": "N/A",
+
+    "Passing": "N/A",
+
+    "Blocks": "7/9",
+
+    "Year": "4",
+
+    "Program": "Entreperneurship",
+
+    "Position": "Middle Blocker",
+
+    "Origin Club": "N/A"
+
+  },
+  {
+
+    "Full name": "Alexandre Jette",
+
+    "Number": "12",
+
+    "Kills": "1/2",
+
+    "Serves": "6/6",
+
+    "Digs": "4/7",
+
+    "Passing": "N/A",
+
+    "Blocks": "3/5",
+
+    "Year": "3",
+
+    "Program": "Entreperneurship",
+
+    "Position": "Setter",
+
+    "Origin Club": "Samurai de CF"
+
+  },
+  {
+
+    "Full name": "Victor Ssuto",
+
+    "Number": "5",
+
+    "Kills": "1/1",
+
+    "Serves": "6/6",
+
+    "Digs": "4/7",
+
+    "Passing": "N/A",
+
+    "Blocks": "3/4",
+
+    "Year": "3",
+
+    "Program": "Computer Science",
+
+    "Position": "Setter",
+
+    "Origin Club": "Afterschock"
+
+  },
+  {
+
+    "Full name": "Samuel Caughie",
+
+    "Number": "4",
+
+    "Kills": "3/4",
+
+    "Serves": "4/6",
+
+    "Digs": "4/7",
+
+    "Passing": "N/A",
+
+    "Blocks": "1/4",
+
+    "Year": "1",
+
+    "Program": "Health Science ",
+
+    "Position": "Opposite Hitter",
+
+    "Origin Club": "Amiral JDLM"
+
+  },
+  {
+
+    "Full name": "Thomas Duguay-Denomée",
+
+    "Number": "15",
+
+    "Kills": "3/4",
+
+    "Serves": "3/6",
+
+    "Digs": "2/7",
+
+    "Passing": "N/A",
+
+    "Blocks": "3/5",
+
+    "Year": "2",
+
+    "Program": "Social Science: Commerce",
+
+    "Position": "Opposite Hitter",
+
+    "Origin Club": "N/A"
+
+  },
+  {
+
+    "Full name": "Emile Durocher",
+
+    "Number": "1",
+
+    "Kills": "5/6",
+
+    "Serves": "4/6",
+
+    "Digs": "3/7",
+
+    "Passing": "5/6",
+
+    "Blocks": "3/5",
+
+    "Year": "2",
+
+    "Program": "Entreperneurship",
+
+    "Position": "Wing-Spiker",
+
+    "Origin Club": "Lynx"
+
+  },
+  {
+
+    "Full name": "Nihad Mahmalat",
+
+    "Number": "N/A",
+
+    "Kills": "N/A",
+
+    "Serves": "N/A",
+
+    "Digs": "N/A",
+
+    "Passing": "N/A",
+
+    "Blocks": "N/A",
+
+    "Year": "1",
+
+    "Program": "Health Science",
+
+    "Position": "N/A",
+
+    "Origin Club": "Lynx"
+
+  }
+  {
+    "Full name": "Nikolay Papanchev",
+
+    "Number": "7",
+
+    "Kills": "2/6",
+
+    "Serves": "7/7",
+
+    "Digs": "5/7",
+
+    "Passing": "4/8",
+
+    "Blocks": "3/4",
+
+    "Year": "2",
+
+    "Program": "Pure and Applied Science",
+
+    "Position": "Wing-Spiker",
+
+    "Origin Club": "Amiral JDLM"
+  }
+  {
+    "Full name": "Gregory Riley",
+
+    "Number": "9",
+
+    "Kills": "3/5",
+
+    "Serves": "3/3",
+
+    "Digs": "2/4",
+
+    "Passing": "6/9",
+
+    "Blocks": "3/5",
+
+    "Year": "1",
+
+    "Program": "Social Science: Commerce",
+
+    "Position": "Wing-Spiker",
+
+    "Origin Club": "Amiral JDLM"
+  }
+  {
+    "Full name": "Massil Philippe Serik",
+
+    "Number": "8",
+
+    "Kills": "6/6",
+
+    "Serves": "10/10",
+
+    "Digs": "3/4",
+
+    "Passing": "4/9",
+
+    "Blocks": "3/3",
+
+    "Year": "2",
+
+    "Program": "Health Science",
+
+    "Position": "Wing-Spiker/Opposite-Hitter",
+
+    "Origin Club": "Afterschock"
+  }
+  {
+    "Full name": "Anson Wang",
+
+    "Number": "11",
+
+    "Kills": "6/8",
+
+    "Serves": "7/7",
+
+    "Digs": "5/6",
+
+    "Passing": "6/6",
+
+    "Blocks": "3/5",
+
+    "Year": "1",
+
+    "Program": "Social Science: Commerce",
+
+    "Position": "Wing-Spiker",
+
+    "Origin Club": "Samurai de CF"
+  }
+  {
+    "Full name": "Philippe Bordeleau",
+
+    "Number": "19",
+
+    "Kills": "N/A",
+
+    "Serves": "N/A",
+
+    "Digs": "5/7",
+
+    "Passing": "6/8",
+
+    "Blocks": "N/A",
+
+    "Year": "1",
+
+    "Program": "Health Science",
+
+    "Position": "Libero",
+
+    "Origin Club": "N/a"
+  }
+  
+
+]
