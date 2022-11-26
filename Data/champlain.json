@@ -1,7 +1,7 @@
 [
   {
 
-      "Full name": "Alex Ssuto",
+      "Name": "Alex Ssuto",
 
       "Number": "10",
 
@@ -30,7 +30,7 @@
   },
   { 
       
-      "Full name": "Malakai Buttle",
+      "Name": "Malakai Buttle",
 
       "Number": "18",
 
@@ -58,7 +58,7 @@
   },
   {
 
-    "Full name": "Marc Lampron",
+    "Name": "Marc Lampron",
 
     "Number": "8",
 
@@ -85,7 +85,7 @@
   },
   {
 
-    "Full name": "Nikita Kurignov",
+    "Name": "Nikita Kurignov",
 
     "Number": "13",
 
@@ -112,7 +112,7 @@
   },
   {
 
-    "Full name": "Alexandre Jette",
+    "Name": "Alexandre Jette",
 
     "Number": "12",
 
@@ -139,7 +139,7 @@
   },
   {
 
-    "Full name": "Victor Ssuto",
+    "Name": "Victor Ssuto",
 
     "Number": "5",
 
@@ -166,7 +166,7 @@
   },
   {
 
-    "Full name": "Samuel Caughie",
+    "Name": "Samuel Caughie",
 
     "Number": "4",
 
@@ -193,7 +193,7 @@
   },
   {
 
-    "Full name": "Thomas Duguay-Denomée",
+    "Name": "Thomas Duguay-Denomée",
 
     "Number": "15",
 
@@ -220,7 +220,7 @@
   },
   {
 
-    "Full name": "Emile Durocher",
+    "Name": "Emile Durocher",
 
     "Number": "1",
 
@@ -247,7 +247,7 @@
   },
   {
 
-    "Full name": "Nihad Mahmalat",
+    "Name": "Nihad Mahmalat",
 
     "Number": "N/A",
 
@@ -273,7 +273,7 @@
 
   },
   {
-    "Full name": "Nikolay Papanchev",
+    "Name": "Nikolay Papanchev",
 
     "Number": "7",
 
@@ -298,7 +298,7 @@
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Papanchev-X3-1-683x1024.jpg"
   },
   {
-    "Full name": "Gregory Riley",
+    "Name": "Gregory Riley",
 
     "Number": "9",
 
@@ -323,7 +323,7 @@
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Riley-X3-683x1024.jpg"
   },
   {
-    "Full name": "Massil Philippe Serik",
+    "Name": "Massil Philippe Serik",
 
     "Number": "8",
 
@@ -348,7 +348,7 @@
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Serik-X3-1-683x1024.jpg",
   },
   {
-    "Full name": "Anson Wang",
+    "Name": "Anson Wang",
 
     "Number": "11",
 
@@ -373,7 +373,7 @@
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Wang-X3-683x1024.jpg"
   },
   {
-    "Full name": "Philippe Bordeleau",
+    "Name": "Philippe Bordeleau",
 
     "Number": "19",
 
