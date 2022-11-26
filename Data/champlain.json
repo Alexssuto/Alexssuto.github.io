@@ -1,5 +1,8 @@
-[
-  {
+{
+  "info":{
+    "count": "15"
+  },
+  "results": [{
 
       "id": "1",
 
@@ -416,6 +419,7 @@
     "Picture": "https://www.champlaincavaliers.com/wp-content/uploads/Bordeleau-X3-683x1024.jpg"
   }
   ]
+}
 
 
 
