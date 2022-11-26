@@ -1,6 +1,8 @@
 [
   {
 
+      "id": "1",
+
       "Name": "Alex Ssuto",
 
       "Number": "10",
@@ -29,7 +31,8 @@
 
   },
   { 
-      
+      "id": "2",
+
       "Name": "Malakai Buttle",
 
       "Number": "18",
@@ -57,6 +60,7 @@
    
   },
   {
+    "id": "3",
 
     "Name": "Marc Lampron",
 
@@ -84,6 +88,7 @@
 
   },
   {
+    "id": "4",
 
     "Name": "Nikita Kurignov",
 
@@ -111,6 +116,7 @@
 
   },
   {
+    "id": "5",
 
     "Name": "Alexandre Jette",
 
@@ -138,6 +144,7 @@
 
   },
   {
+    "id": "6",
 
     "Name": "Victor Ssuto",
 
@@ -165,6 +172,7 @@
 
   },
   {
+    "id": "7",
 
     "Name": "Samuel Caughie",
 
@@ -192,6 +200,7 @@
 
   },
   {
+    "id": "8",
 
     "Name": "Thomas Duguay-Denomée",
 
@@ -219,6 +228,7 @@
 
   },
   {
+    "id": "9",
 
     "Name": "Emile Durocher",
 
@@ -246,6 +256,7 @@
 
   },
   {
+    "id": "10",
 
     "Name": "Nihad Mahmalat",
 
@@ -273,6 +284,8 @@
 
   },
   {
+    "id": "11",
+
     "Name": "Nikolay Papanchev",
 
     "Number": "7",
@@ -298,6 +311,7 @@
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Papanchev-X3-1-683x1024.jpg"
   },
   {
+    "id": "12",
     "Name": "Gregory Riley",
 
     "Number": "9",
@@ -323,6 +337,7 @@
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Riley-X3-683x1024.jpg"
   },
   {
+    "id": "13",
     "Name": "Massil Philippe Serik",
 
     "Number": "8",
@@ -348,6 +363,7 @@
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Serik-X3-1-683x1024.jpg",
   },
   {
+    "id": "14",
     "Name": "Anson Wang",
 
     "Number": "11",
@@ -373,6 +389,8 @@
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Wang-X3-683x1024.jpg"
   },
   {
+    "id": "15",
+    
     "Name": "Philippe Bordeleau",
 
     "Number": "19",
