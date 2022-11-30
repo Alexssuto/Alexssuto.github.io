@@ -22,7 +22,7 @@
 
       "Position": "Libero",
 
-      "Origin Club": "AfterSchock",
+      "OriginClub": "AfterSchock",
 
       "Picture": "https://www.champlaincavaliers.com/wp-content/uploads/Ssuto-A-X3-683x1024.jpg"
 
@@ -52,7 +52,7 @@
 
       "Position": "Middle Blocker",
 
-      "Origin Club": "Centaniel Chargers",
+      "OriginClub": "Centaniel Chargers",
 
       "Picture": "https://www.champlaincavaliers.com/wp-content/uploads/Buttle-X3-1-683x1024.jpg"
 
@@ -81,7 +81,7 @@
 
     "Position": "Middle Blocker",
 
-    "Origin Club": "N/A",
+    "OriginClub": "N/A",
 
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Lampron-X3-1-683x1024.jpg"
 
@@ -109,7 +109,7 @@
 
     "Position": "Middle Blocker",
 
-    "Origin Club": "N/A",
+    "OriginClub": "N/A",
 
     "Picture": "https://www.champlaincavaliers.com/wp-content/uploads/Kurginov-X3-1-683x1024.jpg"
 
@@ -137,7 +137,7 @@
 
     "Position": "Setter",
 
-    "Origin Club": "Samurai de CF",
+    "OriginClub": "Samurai de CF",
 
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Jette-X3-3-683x1024.jpg"
 
@@ -165,7 +165,7 @@
 
     "Position": "Setter",
 
-    "Origin Club": "Afterschock",
+    "OriginClub": "Afterschock",
 
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Ssuto-V-X3-683x1024.jpg"
 
@@ -193,7 +193,7 @@
 
     "Position": "Opposite Hitter",
 
-    "Origin Club": "Amiral JDLM",
+    "OriginClub": "Amiral JDLM",
 
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Caughie-X3-683x1024.jpg"
 
@@ -221,7 +221,7 @@
 
     "Position": "Opposite Hitter",
 
-    "Origin Club": "N/A",
+    "OriginClub": "N/A",
 
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Duguay-Denommee-X3-1-683x1024.jpg"
 
@@ -249,7 +249,7 @@
 
     "Position": "Wing-Spiker",
 
-    "Origin Club": "Lynx",
+    "OriginClub": "Lynx",
 
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Durocher-X3-1-683x1024.jpg"
 
@@ -277,7 +277,7 @@
 
     "Position": "N/A",
 
-    "Origin Club": "Lynx",
+    "OriginClub": "Lynx",
 
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Mahmalat-X3-683x1024.jpg"
 
@@ -305,7 +305,7 @@
 
     "Position": "Wing-Spiker",
 
-    "Origin Club": "Amiral JDLM",
+    "OriginClub": "Amiral JDLM",
 
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Papanchev-X3-1-683x1024.jpg"
   },
@@ -331,7 +331,7 @@
 
     "Position": "Wing-Spiker",
 
-    "Origin Club": "Amiral JDLM",
+    "OriginClub": "Amiral JDLM",
 
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Riley-X3-683x1024.jpg"
   },
@@ -357,7 +357,7 @@
 
     "Position": "Wing-Spiker/Opposite-Hitter",
 
-    "Origin Club": "Afterschock",
+    "OriginClub": "Afterschock",
 
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Serik-X3-1-683x1024.jpg",
   },
@@ -383,7 +383,7 @@
 
     "Position": "Wing-Spiker",
 
-    "Origin Club": "Samurai de CF",
+    "OriginClub": "Samurai de CF",
 
     "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Wang-X3-683x1024.jpg"
   },
@@ -410,7 +410,7 @@
 
     "Position": "Libero",
 
-    "Origin Club": "N/a",
+    "OriginClub": "N/a",
 
     "Picture": "https://www.champlaincavaliers.com/wp-content/uploads/Bordeleau-X3-683x1024.jpg"
   }
