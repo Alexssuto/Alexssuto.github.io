@@ -4,19 +4,19 @@
 
       "Name": "Alex Ssuto",
       
-      "Number": "10",
+      "Number": 10,
 
-      "Kills": "N/A",
+      "Kills": 0,
 
-      "Serves": "N/A",
+      "Serves": 0,
 
-      "Digs": "4/6",
+      "Digs": 4,
 
-      "Passing": "6/8",
+      "Passing": 6,
 
-      "Blocks": "N/A",
+      "Blocks": 0,
 
-      "Year": "3",
+      "Year": 3,
 
       "Program": "Computer Science",
 
@@ -34,19 +34,19 @@
 
       "Name": "Malakai Buttle",
 
-      "Number": "18",
+      "Number": 18,
 
-      "Kills": "5/5",
+      "Kills": 5/5,
 
-      "Serves": "6/7",
+      "Serves": 6,
 
-      "Digs": "N/A",
+      "Digs": 0,
 
-      "Passing": "N/A",
+      "Passing": 0,
 
-      "Blocks": "5/9",
+      "Blocks": 5,
 
-      "Year": "2",
+      "Year": 2,
 
       "Program": "Social Science",
 
@@ -63,19 +63,19 @@
 
     "Name": "Marc Lampron",
 
-    "Number": "8",
+    "Number": 8,
 
-    "Kills": "3/5",
+    "Kills": 3,
 
-    "Serves": "3/6",
+    "Serves": 3,
 
-    "Digs": "N/A",
+    "Digs": 0,
 
-    "Passing": "N/A",
+    "Passing": 0,
 
-    "Blocks": "6/9",
+    "Blocks": 6,
 
-    "Year": "2",
+    "Year": 2,
 
     "Program": "Math and computer science",
 
@@ -91,19 +91,19 @@
 
     "Name": "Nikita Kurignov",
 
-    "Number": "13",
+    "Number": 13,
 
-    "Kills": "8/9",
+    "Kills": 8,
 
-    "Serves": "2/6",
+    "Serves": 2,
 
-    "Digs": "N/A",
+    "Digs": 0,
 
-    "Passing": "N/A",
+    "Passing": 0,
 
-    "Blocks": "7/9",
+    "Blocks": 0,
 
-    "Year": "4",
+    "Year": 4,
 
     "Program": "Entreperneurship",
 
@@ -119,19 +119,19 @@
 
     "Name": "Alexandre Jette",
 
-    "Number": "12",
+    "Number": 12,
 
-    "Kills": "1/2",
+    "Kills": 1,
 
-    "Serves": "6/6",
+    "Serves": 6,
 
-    "Digs": "4/7",
+    "Digs": 4,
 
-    "Passing": "N/A",
+    "Passing": 0,
 
-    "Blocks": "3/5",
+    "Blocks": 3,
 
-    "Year": "3",
+    "Year": 3,
 
     "Program": "Entreperneurship",
 
@@ -147,19 +147,19 @@
 
     "Name": "Victor Ssuto",
 
-    "Number": "5",
+    "Number": 5,
 
-    "Kills": "1/1",
+    "Kills": 1,
 
-    "Serves": "6/6",
+    "Serves": 6,
 
-    "Digs": "4/7",
+    "Digs": 4,
 
-    "Passing": "N/A",
+    "Passing": 0,
 
-    "Blocks": "3/4",
+    "Blocks": 3,
 
-    "Year": "3",
+    "Year": 3,
 
     "Program": "Computer Science",
 
@@ -175,19 +175,19 @@
 
     "Name": "Samuel Caughie",
 
-    "Number": "4",
+    "Number": 4,
 
-    "Kills": "3/4",
+    "Kills": 3,
 
-    "Serves": "4/6",
+    "Serves": 4,
 
-    "Digs": "4/7",
+    "Digs": 4,
 
-    "Passing": "N/A",
+    "Passing": 0,
 
-    "Blocks": "1/4",
+    "Blocks": 1,
 
-    "Year": "1",
+    "Year": 1,
 
     "Program": "Health Science ",
 
@@ -203,19 +203,19 @@
 
     "Name": "Thomas Duguay-Denomée",
 
-    "Number": "15",
+    "Number": 15,
 
-    "Kills": "3/4",
+    "Kills": 3,
 
-    "Serves": "3/6",
+    "Serves": 3,
 
-    "Digs": "2/7",
+    "Digs": 2,
 
-    "Passing": "N/A",
+    "Passing": 0,
 
-    "Blocks": "3/5",
+    "Blocks": 3,
 
-    "Year": "2",
+    "Year": 2,
 
     "Program": "Social Science: Commerce",
 
@@ -231,19 +231,19 @@
 
     "Name": "Emile Durocher",
 
-    "Number": "1",
+    "Number": 1,
 
-    "Kills": "5/6",
+    "Kills": 5,
 
-    "Serves": "4/6",
+    "Serves": 4,
 
-    "Digs": "3/7",
+    "Digs": 3,
 
-    "Passing": "5/6",
+    "Passing": 5,
 
-    "Blocks": "3/5",
+    "Blocks": 3,
 
-    "Year": "2",
+    "Year": 2,
 
     "Program": "Entreperneurship",
 
@@ -259,17 +259,17 @@
 
     "Name": "Nihad Mahmalat",
 
-    "Number": "N/A",
+    "Number": 0,
 
-    "Kills": "N/A",
+    "Kills": 0,
 
-    "Serves": "N/A",
+    "Serves": 0,
 
-    "Digs": "N/A",
+    "Digs": 0,
 
-    "Passing": "N/A",
+    "Passing": 0,
 
-    "Blocks": "N/A",
+    "Blocks": 0,
 
     "Year": "1",
 
@@ -287,19 +287,19 @@
 
     "Name": "Nikolay Papanchev",
 
-    "Number": "7",
+    "Number": 7,
 
-    "Kills": "2/6",
+    "Kills": 2,
 
-    "Serves": "7/7",
+    "Serves": 7,
 
-    "Digs": "5/7",
+    "Digs": 5,
 
-    "Passing": "4/8",
+    "Passing": 4,
 
-    "Blocks": "3/4",
+    "Blocks": 3,
 
-    "Year": "2",
+    "Year": 2,
 
     "Program": "Pure and Applied Science",
 
@@ -313,19 +313,19 @@
     "id": 12,
     "Name": "Gregory Riley",
 
-    "Number": "9",
+    "Number": 9,
 
-    "Kills": "3/5",
+    "Kills": 3,
 
-    "Serves": "3/3",
+    "Serves": 3,
 
-    "Digs": "2/4",
+    "Digs": 2,
 
-    "Passing": "6/9",
+    "Passing": 6,
 
-    "Blocks": "3/5",
+    "Blocks": 3,
 
-    "Year": "1",
+    "Year": 1,
 
     "Program": "Social Science: Commerce",
 
@@ -339,19 +339,19 @@
     "id": 13,
     "Name": "Massil Philippe Serik",
 
-    "Number": "8",
+    "Number": 8,
 
-    "Kills": "6/6",
+    "Kills": 6,
 
-    "Serves": "10/10",
+    "Serves": 10,
 
-    "Digs": "3/4",
+    "Digs": 3,
 
-    "Passing": "4/9",
+    "Passing": 4,
 
-    "Blocks": "3/3",
+    "Blocks": 3,
 
-    "Year": "2",
+    "Year": 2,
 
     "Program": "Health Science",
 
@@ -365,17 +365,17 @@
     "id": 14,
     "Name": "Anson Wang",
 
-    "Number": "11",
+    "Number": 11,
 
-    "Kills": "6/8",
+    "Kills": 6,
 
-    "Serves": "7/7",
+    "Serves": 7,
 
-    "Digs": "5/6",
+    "Digs": 5,
 
-    "Passing": "6/6",
+    "Passing": 6,
 
-    "Blocks": "3/5",
+    "Blocks": 3,
 
     "Year": "1",
 
@@ -392,17 +392,17 @@
     
     "Name": "Philippe Bordeleau",
 
-    "Number": "19",
+    "Number": 19,
 
-    "Kills": "N/A",
+    "Kills": 0,
 
-    "Serves": "N/A",
+    "Serves": 0,
 
-    "Digs": "5/7",
+    "Digs": 5,
 
-    "Passing": "6/8",
+    "Passing": 6,
 
-    "Blocks": "N/A",
+    "Blocks": 0,
 
     "Year": "1",
 
