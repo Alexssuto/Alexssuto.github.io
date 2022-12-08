@@ -28,8 +28,35 @@
 
 
       
-  }
+  },
+ {
+"id": 3,
 
+"Name": "Marc Lampron",
+
+"Number": 8,
+
+"Kills": 3,
+
+"Serves": 3,
+
+"Digs": 0,
+
+"Passing": 0,
+
+"Blocks": 6,
+
+"Year": 2,
+
+"Program": "Math and computer science",
+
+"Position": "Middle Blocker",
+
+"OriginClub": "N/A",
+
+"Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Lampron-X3-1-683x1024.jpg"
+
+}
 ]
 
 
