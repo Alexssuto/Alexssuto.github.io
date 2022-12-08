@@ -56,40 +56,7 @@
 
 "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Lampron-X3-1-683x1024.jpg"
 
-},
-{
-
-      "id": 1,
-
-      "Name": "Alex Ssuto",
-      
-      "Number": 10,
-
-      "Kills": 0,
-
-      "Serves": 0,
-
-      "Digs": 4,
-
-      "Passing": 6,
-
-      "Blocks": 0,
-
-      "Year": 3,
-
-      "Program": "Computer Science",
-
-      "Position": "Libero",
-
-      "OriginClub": "AfterSchock",
-
-      "Picture": "https://www.champlaincavaliers.com/wp-content/uploads/Ssuto-A-X3-683x1024.jpg"
-
-
-      
-  }
-
-
+}
 ]
 
 
