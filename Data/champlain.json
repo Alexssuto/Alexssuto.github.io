@@ -57,334 +57,38 @@
 "Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Lampron-X3-1-683x1024.jpg"
 
 },
- {
-"id": 4,
-
-"Name": "Nikita Kurignov",
-
-"Number": 13,
-
-"Kills": 8,
-
-"Serves": 2,
-
-"Digs": 0,
-
-"Passing": 0,
-
-"Blocks": 0,
-
-"Year": 4,
-
-"Program": "Entreperneurship",
-
-"Position": "Middle Blocker",
-
-"OriginClub": "N/A",
-
-"Picture": "https://www.champlaincavaliers.com/wp-content/uploads/Kurginov-X3-1-683x1024.jpg"
-
-},
 {
-"id": 5,
 
-"Name": "Alexandre Jette",
+      "id": 1,
 
-"Number": 12,
+      "Name": "Alex Ssuto",
+      
+      "Number": 10,
 
-"Kills": 1,
+      "Kills": 0,
 
-"Serves": 6,
+      "Serves": 0,
 
-"Digs": 4,
+      "Digs": 4,
 
-"Passing": 0,
+      "Passing": 6,
 
-"Blocks": 3,
+      "Blocks": 0,
 
-"Year": 3,
+      "Year": 3,
 
-"Program": "Entreperneurship",
+      "Program": "Computer Science",
 
-"Position": "Setter",
+      "Position": "Libero",
 
-"OriginClub": "Samurai de CF",
+      "OriginClub": "AfterSchock",
 
-"Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Jette-X3-3-683x1024.jpg"
+      "Picture": "https://www.champlaincavaliers.com/wp-content/uploads/Ssuto-A-X3-683x1024.jpg"
 
-},
-{
-"id": 6,
 
-"Name": "Victor Ssuto",
+      
+  }
 
-"Number": 5,
-
-"Kills": 1,
-
-"Serves": 6,
-
-"Digs": 4,
-
-"Passing": 0,
-
-"Blocks": 3,
-
-"Year": 3,
-
-"Program": "Computer Science",
-
-"Position": "Setter",
-
-"OriginClub": "Afterschock",
-
-"Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Ssuto-V-X3-683x1024.jpg"
-
-},
-{
-"id": 7,
-
-"Name": "Samuel Caughie",
-
-"Number": 4,
-
-"Kills": 3,
-
-"Serves": 4,
-
-"Digs": 4,
-
-"Passing": 0,
-
-"Blocks": 1,
-
-"Year": 1,
-
-"Program": "Health Science ",
-
-"Position": "Opposite Hitter",
-
-"OriginClub": "Amiral JDLM",
-
-"Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Caughie-X3-683x1024.jpg"
-
-},
-{
-"id": 8,
-
-"Name": "Thomas Duguay-Denomée",
-
-"Number": 15,
-
-"Kills": 3,
-
-"Serves": 3,
-
-"Digs": 2,
-
-"Passing": 0,
-
-"Blocks": 3,
-
-"Year": 2,
-
-"Program": "Social Science: Commerce",
-
-"Position": "Opposite Hitter",
-
-"OriginClub": "N/A",
-
-"Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Duguay-Denommee-X3-1-683x1024.jpg"
-
-},
-{
-"id": 9,
-
-"Name": "Emile Durocher",
-
-"Number": 1,
-
-"Kills": 5,
-
-"Serves": 4,
-
-"Digs": 3,
-
-"Passing": 5,
-
-"Blocks": 3,
-
-"Year": 2,
-
-"Program": "Entreperneurship",
-
-"Position": "Wing-Spiker",
-
-"OriginClub": "Lynx",
-
-"Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Durocher-X3-1-683x1024.jpg"
-
-},
-{
-"id": 10,
-
-"Name": "Nihad Mahmalat",
-
-"Number": 0,
-
-"Kills": 0,
-
-"Serves": 0,
-
-"Digs": 0,
-
-"Passing": 0,
-
-"Blocks": 0,
-
-"Year": "1",
-
-"Program": "Health Science",
-
-"Position": "N/A",
-
-"OriginClub": "Lynx",
-
-"Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Mahmalat-X3-683x1024.jpg"
-
-},
-{
-"id": 11,
-
-"Name": "Nikolay Papanchev",
-
-"Number": 7,
-
-"Kills": 2,
-
-"Serves": 7,
-
-"Digs": 5,
-
-"Passing": 4,
-
-"Blocks": 3,
-
-"Year": 2,
-
-"Program": "Pure and Applied Science",
-
-"Position": "Wing-Spiker",
-
-"OriginClub": "Amiral JDLM",
-
-"Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Papanchev-X3-1-683x1024.jpg"
-},
-{
-"id": 12,
-"Name": "Gregory Riley",
-
-"Number": 9,
-
-"Kills": 3,
-
-"Serves": 3,
-
-"Digs": 2,
-
-"Passing": 6,
-
-"Blocks": 3,
-
-"Year": 1,
-
-"Program": "Social Science: Commerce",
-
-"Position": "Wing-Spiker",
-
-"OriginClub": "Amiral JDLM",
-
-"Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Riley-X3-683x1024.jpg"
-},
-{
-"id": 13,
-"Name": "Massil Philippe Serik",
-
-"Number": 8,
-
-"Kills": 6,
-
-"Serves": 10,
-
-"Digs": 3,
-
-"Passing": 4,
-
-"Blocks": 3,
-
-"Year": 2,
-
-"Program": "Health Science",
-
-"Position": "Wing-Spiker/Opposite-Hitter",
-
-"OriginClub": "Afterschock",
-
-"Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Serik-X3-1-683x1024.jpg",
-},
-{
-"id": 14,
-"Name": "Anson Wang",
-
-"Number": 11,
-
-"Kills": 6,
-
-"Serves": 7,
-
-"Digs": 5,
-
-"Passing": 6,
-
-"Blocks": 3,
-
-"Year": "1",
-
-"Program": "Social Science: Commerce",
-
-"Position": "Wing-Spiker",
-
-"OriginClub": "Samurai de CF",
-
-"Picture":"https://www.champlaincavaliers.com/wp-content/uploads/Wang-X3-683x1024.jpg"
-},
-{
-"id": 15,
-
-"Name": "Philippe Bordeleau",
-
-"Number": 19,
-
-"Kills": 0,
-
-"Serves": 0,
-
-"Digs": 5,
-
-"Passing": 6,
-
-"Blocks": 0,
-
-"Year": "1",
-
-"Program": "Health Science",
-
-"Position": "Libero",
-
-"OriginClub": "N/a",
-
-"Picture": "https://www.champlaincavaliers.com/wp-content/uploads/Bordeleau-X3-683x1024.jpg"
-}
 
 ]
 
